@@ -1,0 +1,16 @@
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\bin\Debug\net5.0\Airline.exe
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\bin\Debug\net5.0\Airline.deps.json
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\bin\Debug\net5.0\Airline.runtimeconfig.json
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\bin\Debug\net5.0\Airline.runtimeconfig.dev.json
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\bin\Debug\net5.0\Airline.dll
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\bin\Debug\net5.0\ref\Airline.dll
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\bin\Debug\net5.0\Airline.pdb
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\obj\Debug\net5.0\Airline.csproj.AssemblyReference.cache
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\obj\Debug\net5.0\Airline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\obj\Debug\net5.0\Airline.AssemblyInfoInputs.cache
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\obj\Debug\net5.0\Airline.AssemblyInfo.cs
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\obj\Debug\net5.0\Airline.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\obj\Debug\net5.0\Airline.dll
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\obj\Debug\net5.0\ref\Airline.dll
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\obj\Debug\net5.0\Airline.pdb
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\Airline\obj\Debug\net5.0\Airline.genruntimeconfig.cache
